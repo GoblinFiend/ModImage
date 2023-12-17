@@ -1,1 +1,3 @@
 # ModImage
+
+![Trophies](/trophies.png)
