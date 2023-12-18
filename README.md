@@ -5,7 +5,7 @@
 
 
 <details>
-  <summary>SPOILERS Variants of plushies:</summary>
+  <summary>SPOILER Variants of plushies:</summary>
 
   -Black Bear
 
