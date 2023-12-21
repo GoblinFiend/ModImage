@@ -15,6 +15,7 @@
 <details>
   <summary>SPOILER Variants of plushies:</summary>
 
+
   -Black Bear
 
   -Black Sheep
